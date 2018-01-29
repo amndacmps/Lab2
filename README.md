@@ -12,3 +12,5 @@ Activity 3:
 
 Activity 4:
   - link to issue: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/82
+
+Activity 5: Add a .gitignore to hello-world
